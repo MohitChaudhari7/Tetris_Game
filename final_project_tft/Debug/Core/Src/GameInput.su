@@ -1,0 +1,2 @@
+../Core/Src/GameInput.c:30:6:Inputs_Init	8	static
+../Core/Src/GameInput.c:44:6:get_dir	8	static

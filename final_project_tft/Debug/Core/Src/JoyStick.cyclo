@@ -1,0 +1,3 @@
+../Core/Src/JoyStick.c:31:6:Get_JoyStick_Val	3
+../Core/Src/JoyStick.c:56:6:Init_JoyStick	1
+../Core/Src/JoyStick.c:100:6:Print_JoyStick_Val	1

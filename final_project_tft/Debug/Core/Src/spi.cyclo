@@ -1,0 +1,10 @@
+../Core/Src/spi.c:31:6:SPI1_Init	1
+../Core/Src/spi.c:55:6:WaitForSPI1RXReady	3
+../Core/Src/spi.c:71:6:WaitForSPI1TXReady	3
+../Core/Src/spi.c:100:6:SPI1_SendData	1
+../Core/Src/spi.c:106:15:SPI1_GetData	1
+../Core/Src/spi.c:112:6:SPI2_Init	1
+../Core/Src/spi.c:138:6:SPI2_WaitForRXReady	3
+../Core/Src/spi.c:154:6:SPI2_WaitForTXReady	3
+../Core/Src/spi.c:183:6:SPI2_SendData	1
+../Core/Src/spi.c:189:15:SPI2_GetData	1

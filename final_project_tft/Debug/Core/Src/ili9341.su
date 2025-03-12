@@ -1,0 +1,13 @@
+../Core/Src/ili9341.c:8:6:delay	24	static
+../Core/Src/ili9341.c:14:14:LCD_READ_5Bytes	24	static
+../Core/Src/ili9341.c:35:6:LCD_WriteCommand	16	static
+../Core/Src/ili9341.c:44:6:LCD_WriteData	16	static
+../Core/Src/ili9341.c:53:6:LCD_SendColour	16	static
+../Core/Src/ili9341.c:58:6:LCD_SetAddress	24	static
+../Core/Src/ili9341.c:75:6:LCD_Clear	24	static
+../Core/Src/ili9341.c:88:6:LCD_Fill	32	static
+../Core/Src/ili9341.c:106:6:LCD_Rectangle	32	static
+../Core/Src/ili9341.c:113:6:LCD_Init	8	static
+../Core/Src/ili9341.c:281:6:LCD_Testing	24	static
+../Core/Src/ili9341.c:340:6:LCD_WriteChar	40	static
+../Core/Src/ili9341.c:358:6:LCD_WriteString	32	static

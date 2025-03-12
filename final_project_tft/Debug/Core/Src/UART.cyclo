@@ -1,0 +1,6 @@
+../Core/Src/UART.c:21:6:Sys_clk_Setup	3
+../Core/Src/UART.c:50:6:Init_UART	1
+../Core/Src/UART.c:98:5:getchar	2
+../Core/Src/UART.c:108:5:putchar	2
+../Core/Src/UART.c:119:5:putnum	5
+../Core/Src/UART.c:163:5:cputs	2

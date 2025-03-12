@@ -1,0 +1,7 @@
+../Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Core/Src/Timers.c:26:6:Init_Timer4	4	static
+../Core/Src/Timers.c:50:6:Init_Timer3	8	static
+../Core/Src/Timers.c:74:6:Init_Timer2	8	static
+../Core/Src/Timers.c:93:6:TIM2_IRQHandler	4	static
+../Core/Src/Timers.c:104:6:TIM3_IRQHandler	4	static
+../Core/Src/Timers.c:115:6:TIM4_IRQHandler	4	static

@@ -1,0 +1,11 @@
+../Core/Src/nrf24l01.c:120:6:NRF_Write	16	static
+../Core/Src/nrf24l01.c:134:9:NRF_Read	24	static
+../Core/Src/nrf24l01.c:147:6:delay_iter	24	static
+../Core/Src/nrf24l01.c:154:6:NRF_Init	16	static
+../Core/Src/nrf24l01.c:235:6:NRF_OpenReadingPipe	16	static
+../Core/Src/nrf24l01.c:249:6:NRF_OpenWritingPipe	16	static
+../Core/Src/nrf24l01.c:260:6:NRF_StartListening	16	static
+../Core/Src/nrf24l01.c:273:6:NRF_StopListening	16	static
+../Core/Src/nrf24l01.c:290:6:NRF_Avaiable	16	static
+../Core/Src/nrf24l01.c:298:6:NRF_ReceiveData	32	static
+../Core/Src/nrf24l01.c:311:6:NRF_SendData	24	static
